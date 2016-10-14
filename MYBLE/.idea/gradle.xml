@@ -11,8 +11,6 @@
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/libble" />
-            <option value="$PROJECT_DIR$/libwc" />
-            <option value="$PROJECT_DIR$/libwebview" />
           </set>
         </option>
         <option name="myModules">
@@ -20,8 +18,6 @@
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/libble" />
-            <option value="$PROJECT_DIR$/libwc" />
-            <option value="$PROJECT_DIR$/libwebview" />
           </set>
         </option>
       </GradleProjectSettings>

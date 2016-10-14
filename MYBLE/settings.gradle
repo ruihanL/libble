@@ -1,1 +1,1 @@
-include ':app', ':libble', ':libwc', ':libwebview'
+include ':app', ':libble'
