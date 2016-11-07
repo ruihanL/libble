@@ -16,11 +16,11 @@
 ##导入方法：
 - 1、复制libble.aar文件到工程任意目录下。在新的工程中，创建新的module，选择import此Module。
 - 2、在工程中加入蓝牙权限
-``` <uses-permission android:name="android.permission.BLUETOOTH"/>
+<uses-permission android:name="android.permission.BLUETOOTH"/>
 <uses-permission android:name="android.permission.BLUETOOTH_ADMIN"/>
 并添加蓝牙后台服务声明
 <service android:name="com.xs.libble.BleService"/>
-```
+
 
 
 ##使用方法
